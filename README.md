@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Joas
+#Salut, moi c’est Joas
 
  Étudiant ingénieur réseaux & systèmes à l’ISEN Ouest  
 💻 Passionné par les infrastructures IT, les réseaux et la cybersécurité  
