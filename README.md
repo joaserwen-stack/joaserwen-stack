@@ -23,7 +23,7 @@
 
 ---
 
-## 📂 Projets
+## Projets
 
  **Système de régulation thermique (STM32, C, Python)**  
 ➡️ Communication USB, régulation PID, IHM Python  
