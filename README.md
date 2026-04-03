@@ -1,11 +1,11 @@
-#Salut, moi c’est Joas
+# Salut, moi c’est Joas
 
  Étudiant ingénieur réseaux & systèmes à l’ISEN Ouest  
 💻 Passionné par les infrastructures IT, les réseaux et la cybersécurité  
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 - 🔐 Intérêt pour la cybersécurité et la sécurité des infrastructures  
 - 🌐 Réseaux : TCP/IP, DNS, DHCP, VLAN  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 
 - Réseaux & télécoms  
 - Administration systèmes  
