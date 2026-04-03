@@ -25,7 +25,7 @@
 
 ## 📂 Projets
 
-🔹 **Système de régulation thermique (STM32, C, Python)**  
+ **Système de régulation thermique (STM32, C, Python)**  
 ➡️ Communication USB, régulation PID, IHM Python  
 
 ---
@@ -33,6 +33,7 @@
 ## 🎯 Objectif
 
 Devenir ingénieur en informatique, en m’adaptant aux évolutions constantes du numérique
+
 ---
 
 ## 📫 Me contacter
