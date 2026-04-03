@@ -1,7 +1,7 @@
 # Salut, moi c’est Joas
 
  Étudiant ingénieur réseaux & systèmes à l’ISEN Ouest  
-💻 Passionné par les infrastructures IT, les réseaux et la cybersécurité  
+ Passionné par les infrastructures IT, les réseaux et la cybersécurité  
 
 ---
 
@@ -32,8 +32,7 @@
 
 ## 🎯 Objectif
 
-Devenir ingénieur spécialisé en réseaux, cybersécurité et cloud  
-
+Devenir ingénieur en informatique, en m’adaptant aux évolutions constantes du numérique
 ---
 
 ## 📫 Me contacter
