@@ -19,13 +19,19 @@
 - Réseaux & télécoms  
 - Administration systèmes  
 - Cybersécurité (notions)  
-- Développement embarqué  
+- Développement embarqué
+- Optimisation logistique  
 
 ---
 
 ## Projets
 
- **Système de régulation thermique (STM32, C, Python)**  
+*Développement d'un moteur algorithmique pour minimiser le nombre de wagons de fret.*
+* **Technologies :** Python, Matplotlib, Multiprocessing.
+* **Architecture :** Implémentation d'algorithmes gloutons (MaxRects, Extreme Points) pour le traitement en temps réel (Online) et de métaheuristiques (Algorithme Génétique) pour la planification (Offline).
+* **Résultat :** Réalisation validée avec mention d'excellence académique.
+
+ *Système de régulation thermique (STM32, C, Python)*  
 ➡️ Communication USB, régulation PID, IHM Python  
 
 ---
