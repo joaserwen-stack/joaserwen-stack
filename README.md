@@ -1,62 +1,24 @@
-# Salut, moi c’est Joas
+# Salut, moi c'est Joas 👋
 
- Étudiant ingénieur réseaux & systèmes à l’ISEN Ouest  
- Passionné par les infrastructures IT, les réseaux et la cybersécurité  
+**Étudiant Ingénieur IT à l'ISEN Ouest | Cybersécurité, Data & Systèmes Embarqués**
 
----
+Actuellement à la recherche d'un **stage technique de M1 (4 à 6 mois dès Mai 2027)**, avec l'objectif de poursuivre sur un **contrat de professionnalisation** pour ma dernière année d'ingénieur (rythme : 6 mois école / 6 mois entreprise). Mon profil hybride me permet d'intervenir sur l'ensemble de la chaîne de valeur IT, de l'infrastructure matérielle (embarqué/FPGA) à l'analyse algorithmique des données et la sécurité réseau.
 
-##  À propos de moi
+### 🛠️ Stack Technique & Compétences
 
-- 🔐 Intérêt pour la cybersécurité et la sécurité des infrastructures  
-- 🌐 Réseaux : TCP/IP, DNS, DHCP, VLAN  
-- ⚙️ Systèmes : Windows Server, Linux  
-- 💻 Programmation : C, Python (STM32, projets embarqués)  
+*   **Data & Algorithmique :** Python, R, Machine Learning (Scikit-Learn), SQL, PostgreSQL, Recherche Opérationnelle.
+*   **Cybersécurité & Réseaux :** Scripting Bash, Linux, Architecture TCP/IP, Analyse de logs.
+*   **Électronique & Embarqué :** C/C++, Microcontrôleurs (STM32), MATLAB, Quartus (FPGA).
 
----
+### 🚀 Projets Phares
 
-##  Compétences
+*   **[Mini-SIEM]** - *Python* : Outil orienté objet pour le parsing de logs complexes, le traçage IP et l'automatisation de la détection d'anomalies.
+*   **[Simulateur de Trading Quantitatif]** - *Python, C* : Pipeline de données (ETL) et modèle de régression linéaire, couplés à un simulateur d'exécution basse latence.
+*   **[Analyse Big Data - Réseau IRVE]** - *R, Python* : Modèles de clustering et génération de cartes de chaleur (heatmaps) spatiales sur le parc national de bornes de recharge.
+*   **[Moteur Algorithmique - 3D Bin Packing]** - *Python* : Implémentation d'algorithmes gloutons et métaheuristiques (recuit simulé) pour l'optimisation logistique et la minimisation du fret.
+*   **[Régulation Thermique Embarquée]** - *C, STM32* : Communication USB, régulation PID et interfaçage matériel.
 
-- Réseaux & télécoms  
-- Administration systèmes  
-- Cybersécurité (notions)  
-- Développement embarqué
-- Optimisation logistique  
+### 📫 Me contacter
 
----
-
-## Projets
-
-*Développement d'un moteur algorithmique pour minimiser le nombre de wagons de fret.*
-* **Technologies :** Python, Matplotlib, Multiprocessing.
-* **Architecture :** Implémentation d'algorithmes gloutons (MaxRects, Extreme Points) pour le traitement en temps réel (Online) et de métaheuristiques (Algorithme Génétique) pour la planification (Offline).
-* **Résultat :** Réalisation validée avec mention d'excellence académique.
-
- *Système de régulation thermique (STM32, C, Python)*  
-➡️ Communication USB, régulation PID, IHM Python  
-
----
-
-## 🎯 Objectif
-
-Devenir ingénieur en informatique, en m’adaptant aux évolutions constantes du numérique
-
----
-
-## 📫 Me contacter
-
-- 📧 joaserwen@gmail.com  
-- 🔗 LinkedIn : https://www.linkedin.com/in/joas-erwen
-<!--
-**joaserwen-stack/joaserwen-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Email :** joaserwen@gmail.com
+*   **LinkedIn :** [in/joas-erwen](https://www.linkedin.com/in/joas-erwen)
